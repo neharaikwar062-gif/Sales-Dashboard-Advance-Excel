@@ -95,6 +95,4 @@ These KPIs provide a quick summary of overall business performance.
 - Delivery status analysis highlights returns and cancellations
 - Discounts have a noticeable impact on net sales and profit
 
----
 
-## 📁 Project Structure
